@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "faye@zippysoft.com",
+    "longName": "Pill Minder",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Pill Minder",
+    "uuid": "5d474fd3-fe00-482d-9087-8cc4772f889d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
